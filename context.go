@@ -15,3 +15,10 @@ func add ( a, b int) int{
 }
 
 type CallBack func( a, b int) int
+
+//add test
+//add test
+//add test
+func testabc(a,b int){
+
+}
