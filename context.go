@@ -15,3 +15,7 @@ func add ( a, b int) int{
 }
 
 type CallBack func( a, b int) int
+
+func testabcd(a, b int,back CallBack) int{
+	return back(a,b)
+}
