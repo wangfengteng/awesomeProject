@@ -27,4 +27,6 @@ func testabc(a,b int){
 func testabcd(a, b int,back CallBack) int{
 	return back(a,b)
 }
+func addnew(){
 
+}
